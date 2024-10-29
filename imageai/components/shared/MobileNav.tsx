@@ -20,6 +20,7 @@ const MobileNav = () => {
                 alt="logo"
                 width={180}
                 height={28}
+            
             />
         </Link>
 
